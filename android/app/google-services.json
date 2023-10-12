@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "85861487728",
+    "project_id": "money-fb132",
+    "storage_bucket": "money-fb132.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85861487728:android:14df0ec7d32d9a848b50b5",
+        "android_client_info": {
+          "package_name": "com.example.expense_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85861487728-a8n2328epcaga3ehrgui3o85vdbamerq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.expense_tracker",
+            "certificate_hash": "ab6188d29ca8ed75d9f10f1bbcf875da6b4c39e1"
+          }
+        },
+        {
+          "client_id": "85861487728-322a0v8k9mv22ush750058kic4debdrd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1e0n_wD2C8B5HYvoP8g8NaJxX5oSpHoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85861487728-322a0v8k9mv22ush750058kic4debdrd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
